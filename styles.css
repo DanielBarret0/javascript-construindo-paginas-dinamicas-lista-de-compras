@@ -1,0 +1,191 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --cor-primaria: #F55B64;
+    --cor-secundaria: #C2373F;
+    --neutro: #F9F9F9;
+    --preto: #131730;
+    --fonte-titulo: "Krona One", sans-serif;
+    --fonte-texto: 'Numans', sans-serif;
+    --degrade-azul: linear-gradient(180deg, #000000 0%, #26327F 100%);
+    
+    /* Definindo uma base para medidas relativas */
+    font-size: 16px; /* 1rem = 16px */
+}
+
+body {
+    background: var(--degrade-azul);
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+main {
+    margin-top: 4rem; /* 64px para rem */
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem; /* 24px para rem */
+    width: 90%; /* Usando porcentagem para largura responsiva */
+    max-width: 27.5rem; /* 440px para rem */
+    align-items: center;
+    background-color: var(--neutro);
+    padding: 3.125rem; /* 50px para rem */
+    border-radius: 1rem; /* 16px para rem */
+}
+
+h2 {
+    font-family: var(--fonte-titulo);
+    color: var(--cor-primaria);
+    font-size: 1.25rem; /* 20px para rem */
+    line-height: 2.0625rem; /* 33px para rem */
+    text-align: left;
+}
+
+hr {
+    border: none;
+    border-bottom: 0.1875rem dotted var(--cor-primaria); /* 3px para rem */
+    margin-bottom: 1.5rem; /* 24px para rem */
+    width: 100%;
+}
+
+p {
+    font-family: var(--fonte-texto);
+    font-size: 1.125rem; /* 18px para rem */
+    font-weight: 400;
+    line-height: 1.5rem; /* 24px para rem */
+    text-align: left;
+}
+
+#input-item {
+    padding: 0.75rem 1rem; /* 12px 16px para rem */
+    display: block;
+    border-radius: 1.5rem; /* 24px para rem */
+    border: 0.0625rem solid var(--preto); /* 1px para rem */
+    width: 80%; /* Usando largura percentual */
+    max-width: 19.1875rem; /* 307px para rem */
+}
+
+#input-item::placeholder {
+    font-family: "Montserrat", sans-serif;
+    font-size: 1rem; /* 16px para rem */
+    line-height: 1.1875rem; /* 19px para rem */
+}
+
+#adicionar-botao {
+    text-align: center;
+    padding: 0.75rem 1rem; /* 12px 16px para rem */
+    border-radius: 1.5rem; /* 24px para rem */
+    background-color: var(--cor-primaria);
+    color: var(--neutro);
+    font-family: var(--fonte-texto);
+    font-size: 1.125rem; /* 18px para rem */
+    line-height: 1.5rem; /* 24px para rem */
+    border: none;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem; /* 8px para rem */
+}
+
+.item-lista-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.container-nome-compra {
+    display: flex;
+}
+
+ul {
+    list-style: none;
+    width: 100%;
+}
+
+.item-lista-texto {
+    font-size: 0.75rem; /* 12px para rem */
+    line-height: 1.25rem; /* 20px para rem */
+}
+
+.checkbox-input {
+    display: none;
+}
+
+.checkbox-customizado {
+    width: 1.25rem; /* 20px para rem */
+    height: 1.25rem; /* 20px para rem */
+    background-color: var(--neutro);
+    border: 0.0625rem solid var(--preto); /* 1px para rem */
+    border-radius: 0.3125rem; /* 5px para rem */
+    cursor: pointer;
+    margin-right: 0.5rem; /* 8px para rem */
+}
+
+.checked {
+    background-color: var(--preto);
+    position: relative;
+}
+
+.checked::after {
+    content: "";
+    position: absolute;
+    left: 30%;
+    top: -10%;
+    width: 0.3125rem; /* 5px para rem */
+    height: 0.875rem; /* 14px para rem */
+    border-top: 0.125rem solid var(--neutro); /* 2px para rem */
+    border-left: 0.125rem solid var(--neutro); /* 2px para rem */
+    transform: rotate(-140deg);
+}
+
+.botao-acao {
+    background-color: transparent;
+    border: none;
+}
+
+@media (min-width: 1440px) {
+    main {
+        max-width: 60%; /* Aumenta a largura do main */
+        padding: 4rem; /* Ajusta o padding */
+    }
+
+    h2 {
+        font-size: 1.75rem; /* Aumenta o tamanho da fonte do título */
+        line-height: 2.5rem; /* Ajusta a altura da linha */
+    }
+
+    p {
+        font-size: 1.375rem; /* Aumenta o tamanho do texto */
+        line-height: 1.875rem;
+    }
+
+    #input-item {
+        padding: 1rem 1.25rem; /* Aumenta o padding dos inputs */
+        font-size: 1.25rem; /* Aumenta o tamanho da fonte do input */
+        max-width: 24rem; /* Aumenta a largura máxima dos inputs */
+    }
+
+    #adicionar-botao {
+        padding: 1rem 1.25rem; /* Aumenta o padding do botão */
+        font-size: 1.5rem; /* Aumenta o tamanho da fonte do botão */
+        line-height: 2rem; /* Ajusta a altura da linha */
+    }
+
+    .checkbox-customizado {
+        width: 1.75rem; /* Aumenta o tamanho da checkbox */
+        height: 1.75rem;
+    }
+
+    .item-lista-texto {
+        font-size: 1rem; /* Aumenta o tamanho do texto da lista */
+        line-height: 1.5rem;
+    }
+}
