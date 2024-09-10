@@ -9,34 +9,13 @@ Rápida descrição do objetivo de fazer esse projeto
 | :rocket: URL         | [Link do projeto]()
 | :fire: Desafio     | [link do Curso](https://cursos.alura.com.br/course/javascript-construindo-paginas-dinamicas)
 
-## Confira toda trajetória do curso:
-
-![Gif](https://github.com/DanielBarret0/JavaScript-criando-requisisoes/blob/main/prints/gif-branches.gif)
-
-## Como rodar o projeto em seu PC
-
-No terminal do seu editor de código siga essas etapas:
-
-![Gif](https://github.com/DanielBarret0/JavaScript-criando-requisisoes/blob/main/prints/terminal.gif)
-
-Certifique-se de que o JSON Server esteja instalado globalmente ou localmente no seu projeto. Para instalá-lo globalmente, você pode usar o seguinte comando:
-```
-npm install -g json-server
-```
-Depois, o comando que você mencionou deve funcionar perfeitamente:
-```
-json-server --watch db.json
-```
-
-
-# Ao fazer esse curso: Aprendi sobre 
+# Ao fazer essa unidade aprendi sobre: 
 
 
 
 
 ## ⭐ Layout do projeto
-![Layout](#vitrinedev)
-
+![Layout]()
 
 # 🙋‍♂️ Autor
 
