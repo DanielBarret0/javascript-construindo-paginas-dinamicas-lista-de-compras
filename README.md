@@ -18,7 +18,7 @@ Aplicação web de lista de compras para o curso de construção de páginas din
 
 
 ## ⭐ Layout do projeto
-![Layout]()
+![Layout](https://github.com/DanielBarret0/javascript-construindo-paginas-dinamicas-lista-de-compras/blob/unidade-1/prints-gif/unidade-1.png)
 
 # 🙋‍♂️ Autor
 
