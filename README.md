@@ -11,7 +11,10 @@ Aplicação web de lista de compras para o curso de construção de páginas din
 
 # Ao fazer essa unidade aprendi sobre: 
 
-
+- Inserir diferentes elementos na página, como imagens, formulários, botões e listas, para construir uma interface de usuário.
+- Aplicar estilos aos elementos HTML usando CSS, definindo cores, layouts, espaçamentos e fontes para tornar a interface visualmente atraente.
+- Criar um checkbox personalizado usando HTML e CSS para que ele se pareça com o design fornecido no Figma.
+- Usar variáveis CSS para manter a consistência das cores e como usar Flexbox para organizar elementos na página de forma responsiva.
 
 
 ## ⭐ Layout do projeto
