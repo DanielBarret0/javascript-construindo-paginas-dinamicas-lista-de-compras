@@ -11,7 +11,11 @@ Aplicação web de lista de compras para o curso de construção de páginas din
 
 # Ao fazer essa unidade aprendi sobre: 
 
-
+- Inserir JavaScript em um projeto através da criação de um arquivo script.js e utilizando a tag <script> para associá-lo ao HTML.
+- Detectar cliques em botões usando o método addEventListener e executar funções específicas quando esses eventos ocorrem.
+- Criar elementos HTML dinamicamente com JavaScript, incluindo listas, botões de exclusão e checkboxes.
+- Manipular o DOM, que permite interagir com a estrutura do documento HTML para adicionar, modificar ou remover elementos.
+- Atribuir identificadores únicos a elementos criados dinamicamente para garantir sua manipulação individual.
 
 
 ## ⭐ Layout do projeto
