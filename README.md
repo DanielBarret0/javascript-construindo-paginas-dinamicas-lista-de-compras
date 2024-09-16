@@ -1,6 +1,6 @@
 # AluraPlay
 
-A aplicação permite inserir itens em uma lista de forma dinâmica, permitindo a exclusão e edição dos mesmos. Os itens terão o nome e também a data e horário que foram criados. Também é possível selecionar um checkbox para informar que o item foi comprado.
+Aplicação web de lista de compras para o curso de construção de páginas dinâmicas com JavaScript.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
@@ -9,34 +9,13 @@ A aplicação permite inserir itens em uma lista de forma dinâmica, permitindo 
 | :rocket: URL         | [Link do projeto]()
 | :fire: Desafio     | [link do Curso](https://cursos.alura.com.br/course/javascript-construindo-paginas-dinamicas)
 
-## Confira toda trajetória do curso:
-
-![Gif](https://github.com/DanielBarret0/JavaScript-criando-requisisoes/blob/main/prints/gif-branches.gif)
-
-## Como rodar o projeto em seu PC
-
-No terminal do seu editor de código siga essas etapas:
-
-![Gif](https://github.com/DanielBarret0/JavaScript-criando-requisisoes/blob/main/prints/terminal.gif)
-
-Certifique-se de que o JSON Server esteja instalado globalmente ou localmente no seu projeto. Para instalá-lo globalmente, você pode usar o seguinte comando:
-```
-npm install -g json-server
-```
-Depois, o comando que você mencionou deve funcionar perfeitamente:
-```
-json-server --watch db.json
-```
-
-
-# Ao fazer esse curso: Aprendi sobre 
+# Ao fazer essa unidade aprendi sobre: 
 
 
 
 
 ## ⭐ Layout do projeto
-![Layout](#vitrinedev)
-
+![Layout](https://github.com/DanielBarret0/javascript-construindo-paginas-dinamicas-lista-de-compras/blob/unidade-2/prints-gif/unidade-2.png)
 
 # 🙋‍♂️ Autor
 
