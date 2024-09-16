@@ -11,11 +11,15 @@ Aplicação web de lista de compras para o curso de construção de páginas din
 
 # Ao fazer essa unidade aprendi sobre: 
 
-
+- Adicionar ouvintes de eventos a elementos do DOM para executar ações quando ocorrem cliques.
+- Buscar e manipular elementos do DOM, como adicionar ou remover classes e alterar estilos.
+- Criar elementos HTML dinamicamente e adicionar ao DOM, como a lista de itens comprados.
+- Obter a data e hora atuais e formatá-las de acordo com as preferências locais do usuário.
+- Melhorar a interatividade e a experiência do usuário em aplicações web.
 
 
 ## ⭐ Layout do projeto
-![Layout](https://github.com/DanielBarret0/javascript-construindo-paginas-dinamicas-lista-de-compras/blob/unidade-2/prints-gif/unidade-2.png)
+![Layout](https://github.com/DanielBarret0/javascript-construindo-paginas-dinamicas-lista-de-compras/blob/unidade-2/prints-gif/unidade-3.png)
 
 # 🙋‍♂️ Autor
 
