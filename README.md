@@ -17,7 +17,7 @@ Aplicação web de lista de compras para o curso de construção de páginas din
 - Criar uma função para verificar dinamicamente se uma lista está vazia e exibir uma mensagem apropriada.
 
 ## ⭐ Layout do projeto
-![Layout]()
+![Layout](https://github.com/DanielBarret0/javascript-construindo-paginas-dinamicas-lista-de-compras/blob/unidade-4/prints-gif/unidade-4.gif)
 
 # 🙋‍♂️ Autor
 
