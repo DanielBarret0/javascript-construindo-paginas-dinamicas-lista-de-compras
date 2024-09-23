@@ -13,29 +13,21 @@ A aplicação permite inserir itens em uma lista de forma dinâmica, permitindo 
 
 ![Gif](https://github.com/DanielBarret0/JavaScript-criando-requisisoes/blob/main/prints/gif-branches.gif)
 
-## Como rodar o projeto em seu PC
+# Ao fazer esse curso aprendi sobre:
 
-No terminal do seu editor de código siga essas etapas:
+1. Pratiquei bastante HTML e CSS
+2. Aprendi a usar JavaScript junto com HTML
+3. Vi diferentes tipos de funções em JavaScript
+4. Aprendi a criar elementos na página dinamicamente
+5. Agora sei como detectar ações do usuário na página
+6. Aprendi a usar seletores para encontrar elementos específicos
+7. Entendi como separar funções JavaScript em arquivos diferentes
 
-![Gif](https://github.com/DanielBarret0/JavaScript-criando-requisisoes/blob/main/prints/terminal.gif)
-
-Certifique-se de que o JSON Server esteja instalado globalmente ou localmente no seu projeto. Para instalá-lo globalmente, você pode usar o seguinte comando:
-```
-npm install -g json-server
-```
-Depois, o comando que você mencionou deve funcionar perfeitamente:
-```
-json-server --watch db.json
-```
-
-
-# Ao fazer esse curso: Aprendi sobre 
-
-
+Foi um curso bem prático e aprendi muitas coisas úteis para criar sites.
 
 
 ## ⭐ Layout do projeto
-![Layout](#vitrinedev)
+![Layout](https://github.com/DanielBarret0/javascript-construindo-paginas-dinamicas-lista-de-compras/blob/unidade-5/prints-gif/unidade-5.gif#vitrinedev)
 
 
 # 🙋‍♂️ Autor
