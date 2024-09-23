@@ -1,4 +1,4 @@
-# AluraPlay
+v# AluraPlay
 
 A aplicação permite inserir itens em uma lista de forma dinâmica, permitindo a exclusão e edição dos mesmos. Os itens terão o nome e também a data e horário que foram criados. Também é possível selecionar um checkbox para informar que o item foi comprado.
 
@@ -6,7 +6,7 @@ A aplicação permite inserir itens em uma lista de forma dinâmica, permitindo 
 | -------------  | --- |
 | :sparkles: Nome        | **Lista de Compras**
 | :label: Tecnologias | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-| :rocket: URL         | [Link do projeto]()
+| :rocket: URL         | [Link do projeto](https://lista-de-compras-kappa-tawny.vercel.app/)
 | :fire: Desafio     | [link do Curso](https://cursos.alura.com.br/course/javascript-construindo-paginas-dinamicas)
 
 ## Confira toda trajetória do curso:
