@@ -18,7 +18,7 @@ Aplicação web de lista de compras para o curso de construção de páginas din
 - Adicionar ouvintes de eventos a botões para acionar funções específicas, como excluir ou editar itens, proporcionando uma interação intuitiva.
 
 ## ⭐ Layout do projeto
-![Layout]()
+![Layout](https://github.com/DanielBarret0/javascript-construindo-paginas-dinamicas-lista-de-compras/blob/unidade-5/prints-gif/unidade-5.gif)
 
 # 🙋‍♂️ Autor
 
