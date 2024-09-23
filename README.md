@@ -11,7 +11,11 @@ Aplicação web de lista de compras para o curso de construção de páginas din
 
 # Ao fazer essa unidade aprendi sobre: 
 
-
+- Prevenir a adição de itens vazios na lista de compras, melhorando a usabilidade e a integridade dos dados.
+- Implementar uma função segura para excluir itens da lista de compras, incluindo uma confirmação do usuário.
+- Implementar arrow functions e compreender como as arrow functions funcionam em JavaScript, especialmente em relação ao comportamento do this.
+- Permitir que os usuários editem os nomes dos itens em suas listas de compras, mantendo a marcação de comprado e atualizando a data de criação.
+- Adicionar ouvintes de eventos a botões para acionar funções específicas, como excluir ou editar itens, proporcionando uma interação intuitiva.
 
 ## ⭐ Layout do projeto
 ![Layout]()
