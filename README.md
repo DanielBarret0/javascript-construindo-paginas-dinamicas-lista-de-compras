@@ -11,8 +11,10 @@ Aplicação web de lista de compras para o curso de construção de páginas din
 
 # Ao fazer essa unidade aprendi sobre: 
 
-
-
+- Dividir o código JavaScript em arquivos separados para melhorar a organização e a manutenção.
+- Utilizar as palavras-chave export e import do ES6 para modularizar o código e facilitar a reutilização de funções.
+- Incluir mensagens de feedback visual para melhorar significativamente a experiência do usuário, especialmente em situações de listas vazias.
+- Criar uma função para verificar dinamicamente se uma lista está vazia e exibir uma mensagem apropriada.
 
 ## ⭐ Layout do projeto
 ![Layout]()
